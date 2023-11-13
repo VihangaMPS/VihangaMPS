@@ -63,6 +63,6 @@
     <a href="#" target="_blank" > <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NodeJS-Light.svg" alt="nodeJs" width="50" height="50"/> </a>
     <a href="#" target="_blank" > <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MongoDB.svg" alt="mongoDB" width="50" height="50"/> </a>
     <a href="#" target="_blank" > <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/ExpressJS-Light.svg" alt="expressJs" width="50" height="50"/></a>
-    <a href="#" target="_blank" > <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MongoDB.svgg" alt="mongoDB" width="50" height="50"/> </a>
+    <a href="#" target="_blank" > <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MongoDB.svg" alt="mongoDB" width="50" height="50"/> </a>
 </p>
 
