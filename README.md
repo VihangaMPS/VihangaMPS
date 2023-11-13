@@ -10,7 +10,7 @@
 
 - :school: I am an `Undergraduate` at [Institute of Software Engineering](https://www.ijse.lk/).
   
-- :student: I’m currently learning `Software Engineering`.
+- :student: I’m currently learning `MERN`.
 
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](#).
 
