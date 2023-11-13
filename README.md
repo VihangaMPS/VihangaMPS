@@ -41,28 +41,44 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/mps-vihanga-7127611a6/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="MPS Vihanga" height="50" width="50" /></a>
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="MPS Vihanga" height="50" width="50" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="MPS Vihanga" height="50" width="50" /></a>
 <a href="" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="MPS Vihanga" height="50" width="50" /></a>
 </p>
 
 ---
 
+<h3 align="center">Work :</h3>
+<p align="center">
+   |  <a href="#" target="_blank" > <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Idea-Light.svg" alt="java" width="50" height="50"/> </a>  | 
+  <a href="#" target="_blank" > <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/VSCode-Light.svg" alt="java" width="50" height="50"/> </a>  |  
+</p>
+
+---
+  <h3 align="center">Communication :</h3>
+<p align="center">
+  |  <a href="#" target="_blank" > <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Github-Light.svg" alt="java" width="50" height="50"/> </a>  | 
+  <a href="#" target="_blank" > <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Github-Light.svg" alt="java" width="50" height="50"/> </a>  |  
+</p>
+
+
+---
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
-    <a href="#" target="_blank" > <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="java" width="50" height="50"/> </a> 
-    <a href="#" target="_blank" > <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="mysql" width="50" height="50"/> </a>
-    <a href="#" target="_blank" > <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="50" height="50"/> </a> 
-    <a href="#" target="_blank" > <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="50" height="50"/> </a>
-    <a href="#" target="_blank" > <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="50" height="50"/> </a> 
-    <a href="#" target="_blank" > <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="50" height="50"/> </a> 
-    <a href="#" target="_blank" > <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="git" width="50" height="50"/> </a> 
-    <a href="#" target="_blank" > <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/PHP-Light.svg" alt="php" width="50" height="50"/> </a>
-    <a href="#" target="_blank" > <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/TailwindCSS-Light.svg" alt="tailwind" width="50" height="50"/</a>
-    <a href="#" target="_blank" > <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Light.svg" alt="react" width="50" height="50"/> </a>
-    <a href="#" target="_blank" > <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/TypeScript.svg" alt="typescript" width="50" height="50"/> </a>
-    <a href="#" target="_blank" > <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NodeJS-Light.svg" alt="nodeJs" width="50" height="50"/> </a>
-    <a href="#" target="_blank" > <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MongoDB.svg" alt="mongoDB" width="50" height="50"/> </a>
-    <a href="#" target="_blank" > <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/ExpressJS-Light.svg" alt="expressJs" width="50" height="50"/></a>
-    <a href="#" target="_blank" > <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MongoDB.svg" alt="mongoDB" width="50" height="50"/> </a>
+ |  <a href="#" target="_blank" > <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="java" width="50" height="50"/> </a>  |  
+    <a href="#" target="_blank" > <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="mysql" width="50" height="50"/> </a>  |  
+    <a href="#" target="_blank" > <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="50" height="50"/> </a>   |  
+    <a href="#" target="_blank" > <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="50" height="50"/> </a>  | 
+    <a href="#" target="_blank" > <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Sass.svg" alt="css3" width="50" height="50"/> </a>  | 
+    <a href="#" target="_blank" > <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="50" height="50"/> </a>   |  
+    <a href="#" target="_blank" > <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="50" height="50"/> </a>   |  
+    <a href="#" target="_blank" > <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="git" width="50" height="50"/> </a>   |  
+    <a href="#" target="_blank" > <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/PHP-Light.svg" alt="php" width="50" height="50"/> </a>  |  
+    <a href="#" target="_blank" > <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/TailwindCSS-Light.svg" alt="tailwind" width="50" height="50"/</a>  |  
+    <a href="#" target="_blank" > <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Light.svg" alt="react" width="50" height="50"/> </a>  |  
+    <a href="#" target="_blank" > <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/TypeScript.svg" alt="typescript" width="50" height="50"/> </a>  |  
+    <a href="#" target="_blank" > <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NodeJS-Light.svg" alt="nodeJs" width="50" height="50"/> </a>  |  
+    <a href="#" target="_blank" > <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MongoDB.svg" alt="mongoDB" width="50" height="50"/> </a>  |  
+    <a href="#" target="_blank" > <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/ExpressJS-Light.svg" alt="expressJs" width="50" height="50"/></a>  |  
+    
 </p>
 
