@@ -42,6 +42,7 @@
 <a href="https://www.linkedin.com/in/mps-vihanga-7127611a6/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="MPS Vihanga" height="50" width="50" /></a>
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="MPS Vihanga" height="50" width="50" /></a>
 <a href="" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="MPS Vihanga" height="50" width="50" /></a>
+  <a href="" target="blank"><img align="center" src="https://github.com/VihangaMPS/VihangaMPS/assets/137038269/7742cb80-6910-4e9f-8f69-367437e069c2" alt="MPS Vihanga" height="60" width="53" /></a>
 </p>
 
 ---
@@ -56,7 +57,7 @@
   <h3 align="center">Communication :</h3>
 <p align="center">
   |  <a href="#" target="_blank" > <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Github-Light.svg" alt="java" width="50" height="50"/> </a>  | 
-  <a href="#" target="_blank" > <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Github-Light.svg" alt="java" width="50" height="50"/> </a>  |  
+  <a href="#" target="_blank" > <img src="https://github.com/VihangaMPS/VihangaMPS/assets/137038269/b0f1b9e6-fa9a-413f-93b5-277d45d52e10" alt="java" width="53" height="55"/> </a>  |  
 </p>
 
 
