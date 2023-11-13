@@ -57,9 +57,7 @@
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="50" height="50"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="git" width="50" height="50"/> </a> 
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/PHP-Light.svg" alt="php" width="50" height="50"/> </a>
-  
- 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/TailwindCSS-Light.svg" alt="tailwind" width="50" height="50"/> </a>
    
-  </p>
+</p>
 
