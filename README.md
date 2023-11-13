@@ -1,7 +1,7 @@
 <p align="center"><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 180px></picture></p>
 
 <h1 align="center"> Hi , I'm MPS Vihanga </h1> 
-<h2 align="center"> T U R N I N G - I D E A S - I N T O - R E A L I T Y.  </h2>
+<h2 align="center"> T U R N I N G - I D E A S - I N T O - R E A L I T Y</h2>
 
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 300px></picture>
