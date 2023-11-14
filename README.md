@@ -49,15 +49,15 @@
 
 <h3 align="center">Work :</h3>
 <p align="center">
-   |  <a href="#" target="_blank" > <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Idea-Light.svg" alt="java" width="50" height="50"/> </a>  | 
-  <a href="#" target="_blank" > <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/VSCode-Light.svg" alt="java" width="50" height="50"/> </a>  |  
+   |  <a href="#" target="_blank" > <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Idea-Light.svg" alt="intelij" width="50" height="50"/> </a>  | 
+  <a href="#" target="_blank" > <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/VSCode-Light.svg" alt="vsCode" width="50" height="50"/> </a>  |  
 </p>
 
 ---
   <h3 align="center">Communication :</h3>
 <p align="center">
-  |  <a href="#" target="_blank" > <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Github-Light.svg" alt="java" width="50" height="50"/> </a>  | 
-  <a href="#" target="_blank" > <img src="https://github.com/VihangaMPS/VihangaMPS/assets/137038269/b0f1b9e6-fa9a-413f-93b5-277d45d52e10" alt="java" width="53" height="55"/> </a>  |  
+  |  <a href="#" target="_blank" > <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Github-Light.svg" alt="github" width="50" height="50"/> </a>  | 
+  <a href="#" target="_blank" > <img src="https://github.com/VihangaMPS/VihangaMPS/assets/137038269/b0f1b9e6-fa9a-413f-93b5-277d45d52e10" alt="slack" width="53" height="55"/> </a> |   <a href="#" target="_blank" > <img src="https://github.com/VihangaMPS/VihangaMPS/assets/137038269/310b7405-f99e-496b-8253-de422cf7cb4f" alt="jira" width="53" height="55"/> </a> |
 </p>
 
 
