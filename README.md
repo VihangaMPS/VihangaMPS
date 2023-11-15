@@ -67,8 +67,6 @@
 <p align="center"> 
  |  <a href="#" target="_blank" > <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="java" width="50" height="50"/> </a>  |  
     <a href="#" target="_blank" > <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="mysql" width="50" height="50"/> </a>  |  
-    <a href="#" target="_blank" > <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="50" height="50"/> </a>   |  
-    <a href="#" target="_blank" > <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="50" height="50"/> </a>  | 
     <a href="#" target="_blank" > <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Sass.svg" alt="css3" width="50" height="50"/> </a>  | 
     <a href="#" target="_blank" > <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="50" height="50"/> </a>   |  
     <a href="#" target="_blank" > <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="50" height="50"/> </a>   |  
