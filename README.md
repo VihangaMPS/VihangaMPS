@@ -13,8 +13,6 @@
 - :student: I’m currently learning `MERN`.
 
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](#).
-
-- :boom: You can visit [MY WEBSITE](#).
 <br><br>
 
 <h3 align="center">My Statistics:</h3>
